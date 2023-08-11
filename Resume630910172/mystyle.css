@@ -1,0 +1,109 @@
+.header {
+    background-color: #001C30;
+    padding: 50px;
+    border: 60px;
+    border-radius: 5px;
+
+}
+
+span {
+    font-size: 30px;
+}
+
+.right {
+    background-color: #176B87;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 20px;
+
+    border: 60px;
+    height: 280px;
+    width: 920px;
+    position: absolute;
+    left: 590px;
+    border-radius: 5px;
+}
+
+.under {
+    background-color: #64CCC5;
+    margin-top: 350px;
+    padding: 20px;
+    border: 60px;
+    width: 540px;
+    height: 650px;
+    position: absolute;
+    border-radius: 5px;
+}
+
+.underright {
+    background-color: #9ceee4;
+    margin-top: 350px;
+    padding: 20px;
+    border: 60px;
+    width: 945px;
+    height: 650px;
+    position: absolute;
+    border-radius: 5px;
+    left: 590px;
+
+}
+
+img {
+    margin-top: 10px;
+    border-width: 10px;
+    border-color: #176B87;
+    border-style: solid;
+    border-radius: 5px;
+    position: relative;
+    left: 30px;
+
+}
+
+.h11 {
+
+    text-decoration: underline;
+    line-height: 25px;
+    margin-top: 1px;
+    color: #a2e4df;
+    margin-bottom: 10px;
+}
+
+.h12 {
+    margin-top: 20px;
+
+}
+
+.uh11 {
+    text-align: center;
+    border: 10px solid dodgerblue;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    width: 300px;
+    line-height: 20px;
+    font-size: 30px;
+}
+
+ul.aaa {
+    font-size: 30px;
+}
+
+.right1 {
+    font-size: 20px;
+    position: absolute;
+    left: 300px;
+    top: 103px;
+
+}
+
+.uh12 {
+    border: 10px solid dodgerblue;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    position: absolute;
+    right: 175px;
+    width: 200px;
+    line-height: 20px;
+    font-size: 30px;
+
+}
